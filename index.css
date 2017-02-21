@@ -2,4 +2,5 @@ body{
     width: 100%;
     background: green;
     height: 100%;
+    position: absolute;
 }
